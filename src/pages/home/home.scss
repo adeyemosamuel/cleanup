@@ -1,3 +1,63 @@
 page-home {
 
+    .no-scroll .scroll-content{
+        overflow: hidden;
+   }
+
+   h1{
+       margin-left: 28px !important;
+       font-size: 30px !important;
+   }
+
+    p {
+        margin-top: 30px !important;
+        font-size: 12px !important;
+        text-align: center !important;
+        color: #b0bee6 !important;
+    }
+
+ion-content{
+background-color: #f5f8fb !important;
+}
+
+
+ion-grid{
+    margin-top: 10% !important;
+    display: block !important;
+}
+
+ion-row{
+    padding: 5px !important;
+}
+
+ion-col{
+    padding: 15px !important;
+}
+
+ion-card{
+    background-color: #ffffff !important;
+    display: block !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+    padding: 4px !important;
+    height: 220px !important;
+}
+
+img{
+    height: 80px !important;
+    width: 80px !important;
+    display: block !important;
+    margin-top: 35% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: auto !important;
+}
+
+h2{
+    font-size: 18px !important;
+    text-align: center !important;
+    color: #54669d !important; 
+    margin-top: 10px !important; 
+}
+
 }
